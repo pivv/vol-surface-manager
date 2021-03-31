@@ -1,2 +1,2 @@
-# vol_surface_manager
+# vol-surface-manager
 Transformer-based volatility surface generator
