@@ -2,6 +2,8 @@
 
 **본 문서에서는 서울대학교 NCIA 연구실에서 한국자산평가와 함께 개발한 Vol Surface Manager에 대해 간략하게 설명하고 이를 사용하기 위한 방법을 확인할 수 있다.** Vol Surface Manager는 vol surface를 보다 효율적으로 만들기 위하여 deep learning 방법을 이용하여 개발되었다.
 
+본 문서에서 개발한 알고리즘은 논문을 통해 개제되었으며, 해당 논문은 [https://www.sciencedirect.com/science/article/abs/pii/S0957417421000816](https://www.sciencedirect.com/science/article/abs/pii/S0957417421000816) 에서 확인할 수 있다.
+
 ## Introduction
 
 [https://en.wikipedia.org/wiki/Volatility_smile](https://en.wikipedia.org/wiki/Volatility_smile)
